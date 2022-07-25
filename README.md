@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Firoxus
-- 👀 I’m interested in Lua
-- 🌱 I’m currently learning Lua
-- 💞️ I’m looking to collaborate on No one
-- 📫 How to reach me Firox#0001
 
-<!---
-Firoxus/Firoxus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Firoxus&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=midnight-purple"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firoxus&layout=compact&card_width=445&hide_border=true&theme=midnight-purple"/>
+
+<!--
+**useragents/useragents** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
