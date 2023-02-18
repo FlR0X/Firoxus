@@ -1,6 +1,6 @@
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Firoxus&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=midnight-purple"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firoxus&layout=compact&card_width=445&hide_border=true&theme=midnight-purple"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Firoxus&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=tokyonight"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firoxus&layout=compact&card_width=445&hide_border=true&theme=tokyonight"/>
 
 <!--
 **useragents/useragents** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
