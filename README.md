@@ -1,11 +1,11 @@
-Hey now, you're an all star
+<h2 align="center">Skills </h2>
 
-Get your game on, go play
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,lua,js,css,html" />
+  </a>
+</p>
 
-Hey now, you're a rock star
-
-Get the show on, get paid
-
-And all that glitters is gold
-
-Only shootin' stars break the mold
+<p href="https://firox.cf" align="center">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=Firoxus&theme=tokyonight&show_icons=true">
+</p>
