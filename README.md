@@ -10,5 +10,4 @@
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=Firoxus&theme=dark&show_icons=false">
 </p>
 
-
-https://cdn.discordapp.com/attachments/1097568235878097037/1104412788891332608/standard.gif
+![standard](https://user-images.githubusercontent.com/86130692/236630289-216888a5-69ea-417a-b221-b32cb42125bf.gif)
