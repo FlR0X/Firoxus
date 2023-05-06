@@ -1,4 +1,4 @@
-<h2 align="center">Skills </h2>
+<h2 align="center">I can code </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
