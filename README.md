@@ -10,6 +10,6 @@
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=Firoxus&theme=dark&show_icons=false">
 </p>
 
-<p align="center">
-![standard](https://user-images.githubusercontent.com/86130692/236630289-216888a5-69ea-417a-b221-b32cb42125bf.gif)
-</p>
+
+  ![standard](https://user-images.githubusercontent.com/86130692/236630289-216888a5-69ea-417a-b221-b32cb42125bf.gif)
+
