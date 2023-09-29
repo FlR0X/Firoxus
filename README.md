@@ -1,4 +1,4 @@
-<h2 align="center">Discord: Firox#7377</h2>
+<h2 align="center">Firox :3</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
