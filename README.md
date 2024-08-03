@@ -7,5 +7,5 @@
 </p>
 
 <p href="https://firox.cf" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=Firoxus&theme=dark&show_icons=false">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=FlR0X&theme=dark&show_icons=false">
 </p>
